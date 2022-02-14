@@ -1,0 +1,15 @@
+A:\Research\DailyWorkManagement\bin\Debug\DailyWorkManagement.exe.config
+A:\Research\DailyWorkManagement\bin\Debug\DailyWorkManagement.exe
+A:\Research\DailyWorkManagement\bin\Debug\DailyWorkManagement.pdb
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.DailyWorkMain.resources
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.Properties.Resources.resources
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.csproj.GenerateResource.cache
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.csproj.CoreCompileInputs.cache
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.exe
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.pdb
+A:\Research\DailyWorkManagement\bin\Debug\Guna.UI2.dll
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.csproj.AssemblyReference.cache
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.csproj.CopyComplete
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.AJob.resources
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.Statistical.resources
+A:\Research\DailyWorkManagement\obj\Debug\DailyWorkManagement.PlanADay.resources

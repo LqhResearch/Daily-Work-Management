@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<PlanData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlanList>
+    <PlanItem>
+      <WorkName>Game cờ vua Winform</WorkName>
+      <StartDate>2021-07-28T00:00:00</StartDate>
+      <EndDate>2021-08-03T23:59:59</EndDate>
+      <Status>Trễ hạn</Status>
+      <Notes />
+    </PlanItem>
+    <PlanItem>
+      <WorkName>Máy tính win 10 winform</WorkName>
+      <StartDate>2021-08-04T00:00:00</StartDate>
+      <EndDate>2021-08-10T23:59:59</EndDate>
+      <Status>Đang thực hiện</Status>
+      <Notes />
+    </PlanItem>
+    <PlanItem>
+      <WorkName>Tạo ghi chú</WorkName>
+      <StartDate>2021-07-28T00:00:00</StartDate>
+      <EndDate>2021-08-10T23:59:59</EndDate>
+      <Status>Đang thực hiện</Status>
+      <Notes />
+    </PlanItem>
+    <PlanItem>
+      <WorkName>Tạo To Do List</WorkName>
+      <StartDate>2021-08-11T00:00:00</StartDate>
+      <EndDate>2021-08-24T23:59:59</EndDate>
+      <Status>Sắp đến</Status>
+      <Notes />
+    </PlanItem>
+    <PlanItem>
+      <WorkName>QL khám sức khoẻ</WorkName>
+      <StartDate>2021-08-24T00:00:00</StartDate>
+      <EndDate>2021-10-04T23:59:59</EndDate>
+      <Status>Sắp đến</Status>
+      <Notes />
+    </PlanItem>
+    <PlanItem>
+      <WorkName>Phần mềm Pomodoro Timer</WorkName>
+      <StartDate>2021-08-11T00:00:00</StartDate>
+      <EndDate>2021-08-15T00:00:00</EndDate>
+      <Status>Sắp đến</Status>
+      <Notes />
+    </PlanItem>
+  </PlanList>
+</PlanData>
